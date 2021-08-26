@@ -1,5 +1,5 @@
 # Brad Traversy's 2021 Web Development Roadmap
-<h2>This list of the top Udemy courses were provided by <a href="https://www.twitter.com/codingyuri)">@codingyuri</a></h2> 
+<h2>This list of the top Udemy courses were provided by <a href="https://www.twitter.com/codingyuri">@codingyuri</a></h2> 
 <h4>Tweets here:</h4>
 <li> <a href="https://twitter.com/codingyuri/status/1429064248446001152">Front-end Thread</a></li>
 <li> <a href="https://twitter.com/codingyuri/status/1429451607394029568">Back-end Thread</a></li>
